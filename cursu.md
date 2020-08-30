@@ -137,19 +137,32 @@ Un sol articul índefinit: **un**. Nequel por li plurale. Ex.: Yo admira un avie
 
 # Qualmen Occidental forma regularmen li paroles international.
 
-|On deprende del verbes li finale -*r* o -*er**: | Si li ultim líttere es un vocale, on adjunte *-t*: | Al perfecte talmen trovat on junte li sufixes *-ion, -or, -iv, -ura, -ori*:|
+| On deprende del verbes li finale -*r* o -*er**: | Si li ultim líttere es un vocale, on adjunte *-t*: | Al perfecte talmen trovat on junte li sufixes *-ion, -or, -iv, -ura, -ori*:|
+
+|----|----|----|
+
 |decora-r|decora-t|decorat-ion, decorat-or, decorat-iv|
+
 |crea-r|crea-t|creat-ion, creat-or, creat-ura|
+
 |instiga-r|instiga-t|instigat-ion, instigat-or|
+
 |explica-r|explica-t|explicat-ion, explicat-iv|
+
 |forma-r|forma-t|format-ion, format-iv|
+
 |explora-r|explora-t|explorat-ion, explorat-or|
+
 |solu-er|solu-t|solut-ion|
+
 |defini-r|defini-t|definit-ion, definit-iv|
+
 |composi-r|composi-t|composit-ion, composit-or|
+
 |nutri-r|nutri-t|nutrit-ion, nutrit-iv|
+
 |proposi-r|proposi-t|proposit-ion, proposit-or|
-|expedi-r|expedi-t|expedit-ion, expedit-or,
-expedit-iv|
+
+|expedi-r|expedi-t|expedit-ion, expedit-or, expedit-iv|
 
 Si li finale es *-d* o *-r*, on changea it a s:
